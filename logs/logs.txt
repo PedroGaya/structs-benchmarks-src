@@ -1,0 +1,540 @@
+2021-05-16 15:32:15 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:126: INSERT LSEC|randomized|100|90ms|32961ops
+
+2021-05-16 15:32:15 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:164: CONSULT LSEC|randomized|100|0ms(mean)|709ops
+
+2021-05-16 15:32:15 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|randomized|100|83ms|730ops
+
+2021-05-16 15:32:15 ERROR C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:97: Something went wrong while consulting.
+
+2021-05-16 15:32:15 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:110: CONSULT ABP|randomized|100|1ms(mean)|39ops
+
+2021-05-16 15:32:50 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:126: INSERT LSEC|randomized|1000|1087ms|34761ops
+
+2021-05-16 15:32:50 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:164: CONSULT LSEC|randomized|1000|0ms(mean)|4191ops
+
+2021-05-16 15:32:51 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|randomized|1000|1048ms|11574ops
+
+2021-05-16 15:32:51 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:110: CONSULT ABP|randomized|1000|0ms(mean)|47ops
+
+2021-05-16 15:34:43 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:126: INSERT LSEC|ordered|1000|1005ms|34761ops
+
+2021-05-16 15:34:43 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:167: CONSULT LSEC|ordered|1000|0ms|0ms|0ms|3003ops
+
+2021-05-16 15:34:44 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|ordered|1000|1019ms|500500ops
+
+2021-05-16 15:34:44 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:113: CONSULT ABP|ordered|1000|0ms|0ms|0ms|1503ops
+
+2021-05-16 17:42:25 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:126: INSERT LSEC|randomized|1000|1007ms|34761ops
+
+2021-05-16 17:42:25 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:164: CONSULT LSEC|randomized|1000|0ms(mean)|7201ops
+
+2021-05-16 17:42:26 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|randomized|1000|1053ms|13111ops
+
+2021-05-16 17:42:26 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:122: CONSULT ABP|randomized|1000|0ms(mean)|71ops
+
+2021-05-16 17:42:33 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:126: INSERT LSEC|ordered|1000|1001ms|34761ops
+
+2021-05-16 17:42:33 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:167: CONSULT LSEC|ordered|1000|0ms|0ms|0ms|3003ops
+
+2021-05-16 17:42:34 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|ordered|1000|1015ms|500500ops
+
+2021-05-16 17:42:34 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:129: CONSULT ABP|ordered|1000|0ms|0ms|0ms|1503ops
+
+2021-05-16 17:44:26 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:126: INSERT LSEC|ordered|1000|1013ms|34761ops
+
+2021-05-16 17:44:26 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:167: CONSULT LSEC|ordered|1000|0ms|0ms|0ms|3003ops
+
+2021-05-16 17:44:27 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|ordered|1000|1047ms|500500ops
+
+2021-05-16 17:44:27 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:129: CONSULT ABP|ordered|1000|0ms|0ms|0ms|1503ops
+
+2021-05-16 17:44:34 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:126: INSERT LSEC|randomized|1000|993ms|34761ops
+
+2021-05-16 17:44:34 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:164: CONSULT LSEC|randomized|1000|0ms(mean)|4147ops
+
+2021-05-16 17:44:35 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|randomized|1000|994ms|12917ops
+
+2021-05-16 17:44:35 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:122: CONSULT ABP|randomized|1000|0ms(mean)|65ops
+
+2021-05-16 17:51:41 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:126: INSERT LSEC|randomized|1000|1017ms|1289748316ops
+
+2021-05-16 17:51:41 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:174: CONSULT LSEC|randomized|1000|0ms(mean)|5579ops
+
+2021-05-16 17:51:42 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|randomized|1000|1034ms|11613ops
+
+2021-05-16 17:51:42 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:122: CONSULT ABP|randomized|1000|0ms(mean)|61ops
+
+2021-05-16 17:51:49 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:126: INSERT LSEC|ordered|1000|992ms|337642716ops
+
+2021-05-16 17:51:49 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:181: CONSULT LSEC|ordered|1000|0ms|0ms|0ms|3003ops
+
+2021-05-16 17:51:50 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|ordered|1000|1000ms|500500ops
+
+2021-05-16 17:51:50 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:129: CONSULT ABP|ordered|1000|0ms|0ms|0ms|1503ops
+
+2021-05-16 17:55:19 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|1000|1002ms|1999ops
+
+2021-05-16 17:55:19 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|1000|0ms|0ms|0ms|3003ops
+
+2021-05-16 17:55:20 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|ordered|1000|1027ms|500500ops
+
+2021-05-16 17:55:20 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:129: CONSULT ABP|ordered|1000|0ms|0ms|0ms|1503ops
+
+2021-05-16 17:55:27 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|1000|1003ms|1999ops
+
+2021-05-16 17:55:27 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|1000|0ms(mean)|5861ops
+
+2021-05-16 17:55:28 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|randomized|1000|984ms|11814ops
+
+2021-05-16 17:55:28 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:122: CONSULT ABP|randomized|1000|0ms(mean)|73ops
+
+2021-05-16 18:13:25 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|1000|1022ms|1999ops
+
+2021-05-16 18:13:25 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|1000|0ms(mean)|4417ops
+
+2021-05-16 18:13:26 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|randomized|1000|1041ms|12234ops
+
+2021-05-16 18:13:26 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:122: CONSULT ABP|randomized|1000|0ms(mean)|59ops
+
+2021-05-16 18:13:29 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|1000|1013ms|1999ops
+
+2021-05-16 18:13:29 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|1000|0ms(mean)|6595ops
+
+2021-05-16 18:13:30 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|randomized|1000|986ms|12693ops
+
+2021-05-16 18:13:30 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:122: CONSULT ABP|randomized|1000|0ms(mean)|50ops
+
+2021-05-16 18:13:42 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|1000|1005ms|1999ops
+
+2021-05-16 18:13:42 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|1000|0ms|0ms|0ms|3003ops
+
+2021-05-16 18:13:43 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|ordered|1000|1016ms|500500ops
+
+2021-05-16 18:13:43 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:129: CONSULT ABP|ordered|1000|0ms|0ms|0ms|1503ops
+
+2021-05-16 19:42:52 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|5000|2917ms|9999ops
+
+2021-05-16 19:42:52 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|5000|0ms(mean)|31135ops
+
+2021-05-16 19:42:55 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|randomized|5000|2906ms|75699ops
+
+2021-05-16 19:42:55 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:122: CONSULT ABP|randomized|5000|0ms(mean)|69ops
+
+2021-05-16 21:57:32 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|1000|529ms|1999ops
+
+2021-05-16 21:57:32 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|1000|0ms(mean)|5407ops
+
+2021-05-16 21:57:32 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|randomized|1000|549ms|12669ops
+
+2021-05-16 21:57:32 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:122: CONSULT ABP|randomized|1000|0ms(mean)|64ops
+
+2021-05-16 21:57:36 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|1000|545ms|1999ops
+
+2021-05-16 21:57:36 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|1000|0ms|0ms|0ms|3003ops
+
+2021-05-16 21:57:36 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|ordered|1000|535ms|500500ops
+
+2021-05-16 21:57:36 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:129: CONSULT ABP|ordered|1000|0ms|0ms|0ms|1503ops
+
+2021-05-16 23:46:00 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|5000|2792ms|9999ops
+
+2021-05-16 23:46:00 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|5000|0ms|0ms|0ms|15003ops
+
+2021-05-16 23:46:02 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|ordered|5000|2804ms|12502500ops
+
+2021-05-16 23:46:02 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:129: CONSULT ABP|ordered|5000|0ms|1ms|0ms|7503ops
+
+2021-05-16 23:57:05 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|5000|2886ms|9999ops
+
+2021-05-16 23:57:05 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|5000|0ms|1ms|0ms|15003ops
+
+2021-05-16 23:57:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|ordered|5000|2908ms|12502500ops
+
+2021-05-16 23:57:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:129: CONSULT ABP|ordered|5000|0ms|0ms|0ms|7503ops
+
+2021-05-16 23:58:16 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|5000|2794ms|9999ops
+
+2021-05-16 23:58:16 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|5000|0ms|0ms|0ms|15003ops
+
+2021-05-16 23:58:19 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|ordered|5000|2966ms|12502500ops
+
+2021-05-16 23:58:19 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:129: CONSULT ABP|ordered|5000|0ms|0ms|0ms|7503ops
+
+2021-05-17 16:25:56 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|5000|2807ms|9999ops
+
+2021-05-17 16:25:56 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|5000|0ms(mean)|37543ops
+
+2021-05-17 16:25:58 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|randomized|5000|2808ms|74221ops
+
+2021-05-17 16:25:59 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:122: CONSULT ABP|randomized|5000|0ms(mean)|75ops
+
+2021-05-17 16:26:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|5000|2828ms|9999ops
+
+2021-05-17 16:26:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|5000|0ms|0ms|0ms|15003ops
+
+2021-05-17 16:26:11 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|ordered|5000|2856ms|12502500ops
+
+2021-05-17 16:26:11 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:129: CONSULT ABP|ordered|5000|0ms|0ms|0ms|7503ops
+
+2021-05-17 19:08:45 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|5000|2833ms|9999ops
+
+2021-05-17 19:08:45 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|5000|0ms(mean)|30105ops
+
+2021-05-17 19:08:48 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|randomized|5000|2974ms|77517ops
+
+2021-05-17 19:08:48 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:122: CONSULT ABP|randomized|5000|0ms(mean)|97ops
+
+2021-05-17 19:09:04 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|5000|2816ms|9999ops
+
+2021-05-17 19:09:04 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|5000|0ms|0ms|0ms|15003ops
+
+2021-05-17 19:09:07 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|ordered|5000|2830ms|12502500ops
+
+2021-05-17 19:09:07 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:129: CONSULT ABP|ordered|5000|0ms|0ms|0ms|7503ops
+
+2021-05-17 19:09:24 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|10000|5528ms|19999ops
+
+2021-05-17 19:09:24 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|10000|0ms(mean)|49073ops
+
+2021-05-17 19:09:29 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|randomized|10000|5215ms|165424ops
+
+2021-05-17 19:09:29 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:122: CONSULT ABP|randomized|10000|0ms(mean)|83ops
+
+2021-05-17 19:09:47 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|10000|5817ms|19999ops
+
+2021-05-17 19:09:47 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|10000|0ms|0ms|0ms|30003ops
+
+2021-05-17 19:09:54 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|ordered|10000|6282ms|50005000ops
+
+2021-05-17 19:09:54 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:129: CONSULT ABP|ordered|10000|0ms|1ms|0ms|15003ops
+
+2021-05-17 20:34:40 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|100000|81736ms|199999ops
+
+2021-05-17 20:34:40 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|100000|1ms(mean)|636013ops
+
+2021-05-17 20:36:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:71: INSERT ABP|randomized|100000|88375ms|2076669ops
+
+2021-05-17 20:36:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:122: CONSULT ABP|randomized|100000|0ms(mean)|96ops
+
+2021-05-17 20:43:24 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100000|119675ms|199999ops
+
+2021-05-17 20:43:24 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100000|0ms|11ms|2ms|300003ops
+
+2021-05-17 20:58:09 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100000|118937ms|199999ops
+
+2021-05-17 20:58:09 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100000|0ms|2ms|1ms|300003ops
+
+2021-05-17 21:05:47 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100000|68391ms|199999ops
+
+2021-05-17 21:05:47 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100000|0ms|3ms|1ms|300003ops
+
+2021-05-17 21:12:20 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100000|66385ms|199999ops
+
+2021-05-17 21:12:20 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100000|0ms|1ms|1ms|300003ops
+
+2021-05-17 21:45:59 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|1000|558ms|1999ops
+
+2021-05-17 21:45:59 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|1000|0ms|0ms|0ms|3003ops
+
+2021-05-17 21:45:59 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:101: INSERT ABP|ordered|1000|553ms|2000ops
+
+2021-05-17 21:45:59 ERROR C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:139: Something went wrong while consulting.
+
+2021-05-17 21:45:59 ERROR C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:139: Something went wrong while consulting.
+
+2021-05-17 21:45:59 ERROR C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:139: Something went wrong while consulting.
+
+2021-05-17 21:45:59 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:159: CONSULT ABP|ordered|1000|5ms|3ms|5ms|0ops
+
+2021-05-17 21:52:07 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100|54ms|199ops
+
+2021-05-17 21:52:07 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100|0ms|0ms|0ms|303ops
+
+2021-05-17 21:52:07 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:101: INSERT ABP|ordered|100|51ms|200ops
+
+2021-05-17 21:52:07 ERROR C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:139: Something went wrong while consulting.
+
+2021-05-17 21:52:07 ERROR C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:139: Something went wrong while consulting.
+
+2021-05-17 21:52:07 ERROR C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:139: Something went wrong while consulting.
+
+2021-05-17 21:52:07 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:159: CONSULT ABP|ordered|100|7ms|4ms|3ms|0ops
+
+2021-05-17 21:52:36 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100|55ms|199ops
+
+2021-05-17 21:52:36 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100|0ms|0ms|0ms|303ops
+
+2021-05-17 21:52:36 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:101: INSERT ABP|ordered|100|50ms|200ops
+
+2021-05-17 21:59:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100|64ms|199ops
+
+2021-05-17 21:59:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100|0ms|0ms|0ms|303ops
+
+2021-05-17 21:59:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:111: INSERT ABP|ordered|100|52ms|200ops
+
+2021-05-17 22:00:48 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100|61ms|199ops
+
+2021-05-17 22:00:48 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100|0ms|0ms|0ms|303ops
+
+2021-05-17 22:00:48 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:113: INSERT ABP|ordered|100|68ms|200ops
+
+2021-05-17 22:05:55 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100|53ms|199ops
+
+2021-05-17 22:05:55 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100|0ms|0ms|0ms|303ops
+
+2021-05-17 22:05:55 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:101: INSERT ABP|ordered|100|51ms|0ops
+
+2021-05-17 22:06:19 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100|61ms|199ops
+
+2021-05-17 22:06:19 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100|0ms|0ms|0ms|303ops
+
+2021-05-17 22:06:19 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:101: INSERT ABP|ordered|100|66ms|9900ops
+
+2021-05-17 22:06:19 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:158: CONSULT ABP|ordered|100|0ms|0ms|0ms|153ops
+
+2021-05-17 22:07:24 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100|54ms|199ops
+
+2021-05-17 22:07:24 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100|0ms|0ms|0ms|303ops
+
+2021-05-17 22:07:24 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:102: INSERT ABP|ordered|100|81ms|9900ops
+
+2021-05-17 22:07:24 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:159: CONSULT ABP|ordered|100|0ms|0ms|0ms|153ops
+
+2021-05-17 22:08:07 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100|58ms|199ops
+
+2021-05-17 22:08:07 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100|0ms|0ms|0ms|303ops
+
+2021-05-17 22:08:07 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:90: INSERT ABP|ordered|100|57ms|9900ops
+
+2021-05-17 22:08:07 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:145: CONSULT ABP|ordered|100|0ms|0ms|0ms|153ops
+
+2021-05-17 22:08:27 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|5000|2867ms|9999ops
+
+2021-05-17 22:08:27 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|5000|0ms|0ms|0ms|15003ops
+
+2021-05-17 22:08:30 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:90: INSERT ABP|ordered|5000|2916ms|24995000ops
+
+2021-05-17 22:08:30 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:145: CONSULT ABP|ordered|5000|0ms|0ms|0ms|7503ops
+
+2021-05-17 22:09:44 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|5000|2741ms|9999ops
+
+2021-05-17 22:09:44 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|5000|0ms(mean)|22259ops
+
+2021-05-17 22:09:47 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:90: INSERT ABP|randomized|5000|2710ms|138506ops
+
+2021-05-17 22:09:47 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:138: CONSULT ABP|randomized|5000|0ms(mean)|69ops
+
+2021-05-17 22:30:58 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100000|64887ms|199999ops
+
+2021-05-17 22:30:58 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100000|0ms|1ms|0ms|300003ops
+
+2021-05-17 22:32:28 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:90: INSERT ABP|ordered|100000|89090ms|1409965408ops
+
+2021-05-17 22:41:16 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100000|57412ms|199999ops
+
+2021-05-17 22:41:16 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100000|0ms|2ms|0ms|300003ops
+
+2021-05-17 22:42:52 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:90: INSERT ABP|ordered|100000|95758ms|1409965408ops
+
+2021-05-17 22:44:51 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|1000|545ms|1999ops
+
+2021-05-17 22:44:51 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|1000|0ms|0ms|0ms|3003ops
+
+2021-05-17 22:44:51 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:90: INSERT ABP|ordered|1000|540ms|999000ops
+
+2021-05-17 22:44:51 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:145: CONSULT ABP|ordered|1000|0ms|0ms|0ms|1503ops
+
+2021-05-17 22:45:28 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|1000|563ms|1999ops
+
+2021-05-17 22:45:28 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|1000|0ms|0ms|0ms|3003ops
+
+2021-05-17 22:45:29 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:83: INSERT ABP|ordered|1000|516ms|999000ops
+
+2021-05-17 22:45:29 ERROR C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:118: Something went wrong while consulting.
+
+2021-05-17 22:45:29 ERROR C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:118: Something went wrong while consulting.
+
+2021-05-17 22:45:29 ERROR C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:118: Something went wrong while consulting.
+
+2021-05-17 22:45:29 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:138: CONSULT ABP|ordered|1000|4ms|3ms|4ms|0ops
+
+2021-05-17 22:46:47 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|1000|553ms|1999ops
+
+2021-05-17 22:46:47 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|1000|0ms|0ms|0ms|3003ops
+
+2021-05-17 22:46:48 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:85: INSERT ABP|ordered|1000|549ms|999000ops
+
+2021-05-17 22:46:48 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:140: CONSULT ABP|ordered|1000|0ms|1ms|0ms|0ops
+
+2021-05-17 22:49:10 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100000|57855ms|199999ops
+
+2021-05-17 22:49:10 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100000|0ms|2ms|0ms|300003ops
+
+2021-05-17 22:50:41 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:85: INSERT ABP|ordered|100000|91814ms|1409965408ops
+
+2021-05-17 22:50:41 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:140: CONSULT ABP|ordered|100000|0ms|2ms|1ms|0ops
+
+2021-05-17 23:08:32 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|5000|2680ms|9999ops
+
+2021-05-17 23:08:32 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|5000|0ms(mean)|21925ops
+
+2021-05-17 23:08:35 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:85: INSERT ABP|randomized|5000|2711ms|139350ops
+
+2021-05-17 23:08:35 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:133: CONSULT ABP|randomized|5000|0ms(mean)|0ops
+
+2021-05-17 23:10:57 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|5000|2746ms|9999ops
+
+2021-05-17 23:10:57 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|5000|0ms|0ms|0ms|15003ops
+
+2021-05-17 23:11:00 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:85: INSERT ABP|ordered|5000|2878ms|24995000ops
+
+2021-05-17 23:11:00 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:140: CONSULT ABP|ordered|5000|0ms|0ms|0ms|0ops
+
+2021-05-17 23:11:58 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|5000|2787ms|9999ops
+
+2021-05-17 23:11:58 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|5000|0ms(mean)|18555ops
+
+2021-05-17 23:12:01 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|randomized|5000|2711ms|151780ops
+
+2021-05-17 23:12:01 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:136: CONSULT ABP|randomized|5000|0ms(mean)|210ops
+
+2021-05-17 23:12:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|5000|2818ms|9999ops
+
+2021-05-17 23:12:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|5000|0ms|0ms|0ms|15003ops
+
+2021-05-17 23:12:11 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|ordered|5000|2835ms|24995000ops
+
+2021-05-17 23:12:11 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:143: CONSULT ABP|ordered|5000|0ms|0ms|0ms|15009ops
+
+2021-05-17 23:12:22 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|5000|2694ms|9999ops
+
+2021-05-17 23:12:22 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|5000|0ms(mean)|20477ops
+
+2021-05-17 23:12:25 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|randomized|5000|2851ms|150128ops
+
+2021-05-17 23:12:25 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:136: CONSULT ABP|randomized|5000|0ms(mean)|202ops
+
+2021-05-17 23:31:34 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|100000|108087ms|199999ops
+
+2021-05-17 23:31:34 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|100000|0ms(mean)|508163ops
+
+2021-05-17 23:33:19 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|randomized|100000|105006ms|4030900ops
+
+2021-05-17 23:33:19 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:136: CONSULT ABP|randomized|100000|0ms(mean)|274ops
+
+2021-05-17 23:36:53 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100000|107114ms|199999ops
+
+2021-05-17 23:36:53 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100000|0ms|1ms|1ms|300003ops
+
+2021-05-17 23:39:25 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|ordered|100000|151920ms|1409965408ops
+
+2021-05-17 23:39:25 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:143: CONSULT ABP|ordered|100000|0ms|1ms|0ms|300009ops
+
+2021-05-18 18:28:12 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|10000|10979ms|19999ops
+
+2021-05-18 18:28:12 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|10000|0ms(mean)|44795ops
+
+2021-05-18 18:28:23 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|randomized|10000|10961ms|315046ops
+
+2021-05-18 18:28:23 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:136: CONSULT ABP|randomized|10000|0ms(mean)|235ops
+
+2021-05-18 18:28:49 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|10000|10668ms|19999ops
+
+2021-05-18 18:28:49 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|10000|0ms|0ms|0ms|30003ops
+
+2021-05-18 18:29:01 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|ordered|10000|12112ms|99990000ops
+
+2021-05-18 18:29:01 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:143: CONSULT ABP|ordered|10000|0ms|0ms|0ms|30009ops
+
+2021-05-18 23:12:37 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|5000|5373ms|10000ops
+
+2021-05-18 23:12:37 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|5000|0ms(mean)|35981ops
+
+2021-05-18 23:12:42 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|randomized|5000|4932ms|133772ops
+
+2021-05-18 23:12:42 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:136: CONSULT ABP|randomized|5000|0ms(mean)|157ops
+
+2021-05-18 23:14:24 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|5000|5211ms|10000ops
+
+2021-05-18 23:14:24 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|5000|0ms|0ms|0ms|15003ops
+
+2021-05-18 23:14:30 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|ordered|5000|5484ms|24995000ops
+
+2021-05-18 23:14:30 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:143: CONSULT ABP|ordered|5000|0ms|0ms|0ms|15003ops
+
+2021-05-18 23:15:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|5000|5253ms|10000ops
+
+2021-05-18 23:15:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|5000|0ms|0ms|0ms|15003ops
+
+2021-05-18 23:15:47 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|5000|5191ms|10000ops
+
+2021-05-18 23:15:47 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|5000|0ms|0ms|0ms|15003ops
+
+2021-05-18 23:15:52 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|ordered|5000|5246ms|24995000ops
+
+2021-05-18 23:15:52 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:143: CONSULT ABP|ordered|5000|0ms|0ms|0ms|15003ops
+
+2021-05-19 00:03:52 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|5000|4768ms|10000ops
+
+2021-05-19 00:03:52 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|5000|0ms(mean)|24823ops
+
+2021-05-19 00:03:57 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|randomized|5000|4712ms|150508ops
+
+2021-05-19 00:03:57 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:136: CONSULT ABP|randomized|5000|0ms(mean)|228ops
+
+2021-05-19 00:04:41 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|10000|11281ms|20000ops
+
+2021-05-19 00:04:41 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|10000|0ms(mean)|47825ops
+
+2021-05-19 00:04:52 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|randomized|10000|11253ms|313250ops
+
+2021-05-19 00:04:52 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:136: CONSULT ABP|randomized|10000|0ms(mean)|210ops
+
+2021-05-19 00:09:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|100000|111744ms|200000ops
+
+2021-05-19 00:09:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|100000|0ms(mean)|464189ops
+
+2021-05-19 00:11:13 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|randomized|100000|124734ms|4079988ops
+
+2021-05-19 00:11:13 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:136: CONSULT ABP|randomized|100000|0ms(mean)|247ops
+
+2021-05-19 00:16:20 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|100000|165239ms|200000ops
+
+2021-05-19 00:16:20 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|100000|0ms|1ms|1ms|300003ops
+
+2021-05-19 00:20:20 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|ordered|100000|239908ms|1409965408ops
+
+2021-05-19 00:20:20 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:143: CONSULT ABP|ordered|100000|0ms|1ms|1ms|300003ops
+
+2021-05-19 01:21:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|1000000|1265601ms|2000000ops
+
+2021-05-19 01:21:08 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|1000000|3ms(mean)|3554477ops
+
+2021-05-19 01:42:23 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|randomized|1000000|1274134ms|50739614ops
+
+2021-05-19 01:42:23 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:136: CONSULT ABP|randomized|1000000|0ms(mean)|337ops
+
+2021-05-19 02:25:54 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|1000000|1347802ms|2000000ops
+
+2021-05-19 02:25:54 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|1000000|0ms|10ms|5ms|3000003ops
+
+2021-05-19 04:00:58 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|ordered|1000000|5704170ms|-728379968ops
+
+2021-05-19 04:00:58 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:143: CONSULT ABP|ordered|1000000|0ms|8ms|4ms|3000003ops
+
+2021-05-19 14:23:07 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|ordered|10000|10156ms|20000ops
+
+2021-05-19 14:23:07 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:178: CONSULT LSEC|ordered|10000|0ms|0ms|0ms|30003ops
+
+2021-05-19 14:23:17 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|ordered|10000|10644ms|99990000ops
+
+2021-05-19 14:23:17 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:143: CONSULT ABP|ordered|10000|0ms|0ms|0ms|30003ops
+
+2021-05-20 22:53:44 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:123: INSERT LSEC|randomized|1000|1094ms|2000ops
+
+2021-05-20 22:53:44 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/LSE/lse.c:171: CONSULT LSEC|randomized|1000|0ms(mean)|8155ops
+
+2021-05-20 22:53:45 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:88: INSERT ABP|randomized|1000|1118ms|22230ops
+
+2021-05-20 22:53:45 INFO  C:/Users/pedro/Downloads/TrabFinal/src/models/ABP/abp.c:136: CONSULT ABP|randomized|1000|0ms(mean)|168ops
+
